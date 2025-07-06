@@ -1,7 +1,7 @@
  Hello World! I am Pavan 👋
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=pavankalyanvaddadhi&theme=violet-dark)](https://git.io/streak-stats)
-GIT_COMMITTER_DATE="$(date)" git commit --amend --no-edit --date "$(date)"
+
 
 
 <!--
